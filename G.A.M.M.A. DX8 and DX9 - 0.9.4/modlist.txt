@@ -1,0 +1,697 @@
+# This is the modlist for GAMMA 0.9.4, DX8 and 9, last updated 2025-07-23
+
++G.A.M.M.A. End of List_separator
+-ZCP 1.5d
+-Mags Buyable at Traders
+-Grulag's Halved Stalkers Population at Hubs
+-G.A.M.M.A. YACS no quit
+-G.A.M.M.A. Free Zoom v3
+-G.A.M.M.A. FDDA Rework
+-G.A.M.M.A. Fast Travel Limiter Rebalance
+-G.A.M.M.A. Bounty Squads Rework
+-G.A.M.M.A. Bounty Squad Kill
+-Shaders cumulative pack for GAMMA
+-Tiskar's & Burn's Attachment Alignment Fixes
+-R3zy's Detectors Enhanced Shaders Patch
+-Raven's Tooltips on the Side
+-Ishmaeel's Kill Tracker
+-Jaku's Improved Shaders v1.2
+-Blindside's MP412 Rex Reanimation Module by Kute
+-Banger's Silencers Icons Fix
+-Apathy's Better Detector Position
+-444- Thick Russian Reticles - Napolemon
+-383- Headgear Animations - lizzardman
+-397- Outfits Animation - lizzardman
+-379- Get out of my way you stupid NPC - NewbieRus
+-376- Barbed Wire Shadow Fix - VodkaPivin
+-342- Desert Eagle Gunslinger Port - Dizmok & Pieuvre
+-305- Dux Characters Kit Voices Pack - Demonized
+-273- Longreed's fixed artefacts spawns under maps - Longreed
+-272- Grulag's Dead Bushes - Grulag
+-270- Headlamp Animation Fix - RavenAscendant
+-263- Safe Areas Transitions - Darkasleif
+-257- Zone Customization Project (ZCP) - Diphenhydramine-HCl
+-244- Weird Tasks Framework - Igigog
+-237- Bizon Replacer - Blackgrowl
+-232- Xenotech Protects Cordon Base - Malac88
+-231- More Aggressive NPC Looting (harder game, do not use with NPC Loot Claim) - Demonized
+-229- Monsters Unstucker - Demonized
+-228- Russian Localization - oneonline911
+-213- Trader Overhaul (if you do not want the true GAMMA experience) - AGoodSetOfPistol
+-211- NPC Loot Claim (NPCs will kill you if you loot what they killed) - Vintar0 & Nullblank
+-209- Death Animations (if you like shooting extra ammo on dead people) - xcvb
+-207- Mags Redux (Disable G.A.M.M.A. Unjam Reload) - RavenAscendant
+-204- Limited Fast Travel (walking is good for your health) - Demonized
+-179- Better Stats Bar - Demonized
+-165- Hunger Thirst Sleep UI htsb knifebinoc patches - xcvb
+-164- Hunger Thirst Sleep UI - xcvb
+-151- Cordon Early Game Tweak - siXMan
+-142- Fixed Crafting with Multi-Use Items WPO patch - thisisntmysteamid
+-133- No more companions friendly fire - RavenAscendant
+-112- FDDA Immersive Sleep Patch - Feel_fried
+-55- Mutants Bleeding - Arszi
+-54- Lsz AI tweak - IgorNitch
+-53- Companions carry weight tweak - sneaky
+-44- Bounty Squads Extended - Vintar0
+-37- Dynamic Tonemap Extended - TheMrDemonized
+-27- Fairer Thermal Anomalies - Tweaki_Breeki
+-22- Agressor Reshade - Awene
+-14- Angry Chimera growl - Tweaki_Breeki
++G.A.M.M.A. Disabled (DO NOT ACTIVATE)_separator
++SaloEater's Double Click to Use Tools
++G.A.M.M.A. Accurate Defense Values
++Anomaly 1.5.3 Shaders Fix
++G.A.M.M.A. New Main Menu
+-G.A.M.M.A. No Copyrighted Music
+-343- G.A.M.M.A. Traduccion Espanola - vdltman
++Momopate's Barrel Condition Effects Display
+-340- Black Market (Buyable Gear) - SalamanderAnder & nox
+-Demonized Death Animations
++Serious Tasks QoL Pack
+-Pre-0.9.4 Saves Fix
+-Pre-0.9.3.1 Saves Fix
+-Pre-0.9 Saves Fix
+-Meatchunk's prefetcher for G.A.M.M.A (needs 12Gb of Free RAM)
++DX9 Compatibility Patch
+-457- RETUNE Ambiant Sounds - Aphrodite_child
++Alternative Addons & Patches_separator
++G.A.M.M.A. Inspect on double tap F disabler
++G.A.M.M.A. Unjam Reload on the same key
+-ATHI's Mags Redux Mod Madness 19.1.2025+
+-Anomaly Magazines Redux (need to disable GAMMA unjam reload same key)
+-261- Ammo Check - Ishmaeel
++Realistic Magazines_separator
++G.A.M.M.A. Deer Hunter as 338 Federal
++442- Expanded & Fixed Maps - HailTheMonolith
+-438- Sights and Optics Retexture - Meowie
++437- Weighted NPC Random Loadouts - SD
+-428- Authentic Reticle for 3DSS - Napolemon
++360- GAMMA Reload Timing Fix - aegis27
+-441- HOWA20 Makeover - Andtheherois & Phant0m
+-427- IWP SV98 3DSS - Andtheherois & IWP Team
++Oleh's Miscellaneous Sound Improvements
++Oleh's Weapons Sounds Tweaks and Fixes
+-434- 3DSS M4A1 Siber Reanimation - Andtheherois
+-431- 3DSS ISG AK Makeover - Andtheherois & BAS Team
+-429- The Covenant Weapon Pack 3DSS - Andtheherois & TCWP Team
+-430- M98B 3DSS Update - Andtheherois & frostychun
++G.A.M.M.A. Repair Kit Renaming
++G.A.M.M.A. Guns Have No Condition
++417- New Extensible RF Sources - Catspaw
++416- Devices of Anomaly Redone - BarryBogs
++No BNVG FDDA Redone Patch
++456- FDDA Redone Fixes - Kute
++447- FDDA Redone - lizzardman
++287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos
++G.A.M.M.A. Short Psi Storms
++388- Aydins Grass Tweaks SSS Terrain LOD Compatibility - aytabag
+-290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
+-190- Screen Space Shaders 23 - Ascii1457
+-189- Beef's NVG - theRealBeef
+-188- Enhanced Shaders - KennShade
++289- Grass Tweaks (reinstall for different options) - Aydin
+-410- 3DSS for GAMMA - Redotix99 & Andtheherois & party50
++436- Alpha AKM Reanimation - SeDzhiMol
++411- Renegades Fixed Ports Collection - Cr3pis
+-409- Mark Switch - party50 & meowie
++422- Desert Eagle Re-animated - TheShinyHaxorus
++Retrogue's Additional Weapons
++G.A.M.M.A. Dark Signal Audio Lite
++G.A.M.M.A. Silenced Shots Audio AI Comments
++285- Dark Signal Blowout and Anomalies Audio - Shrike
++275- Dark Signal Footsteps - Shrike
++274- Dark Signal Audio Pack - Shrike
+-Fix for saves made before 10-10-22
+-Turn this on if you stutter
+-Warfare Patch
+-Unlimited Stashes Weight
+-Blindside's Knife Animations
+-Log spam remover
+-G.A.M.M.A. Mutant Unstucker Remade
+-G.A.M.M.A. NPCs cannot see through foliage - Tosox Version
++G.A.M.M.A. Vices are free
++G.A.M.M.A. NPCs Faster Reactions
++G.A.M.M.A. AI Rework
++xcvb's Guards Spawner
++Wildkins's DAO Svarog Patch
++Wildkins's Ammo Parts on Hover
++Serious Workshop optimization
++Slugler's & Andtheherois's No old ammo in wheel
++SixSloth's & Veerserif's Hideout Furnitures 2.2.1 GAMMA patch
++Simpington's Cocaine Animation for GAMMA
++SilverBlack's Gas Mask Sounds
++SaloEater's Replace Shows Parts Health
++SaloEater's Voiced Actor Gamma Patch
++Trabopap's Field Strip Shows Parts Health
++Tiskar's weapon part color clarity fix
++Tiskar's repair threshold Icon replacers
++Tiskar's colored upgrade kit icons
++Teepo's Speed Fix
++368- Attachment Alignment Fixes - Tiskar & Burn
+-Teivaz's Gunslinger Exo Animations Port
++Solarint's New Piano Songs
++Redotix99's Walking Reanimation
++Razfarg's Scroll Fix
++Particles Cinematic VFX 3.5 1.1.2 BOTZ YAWM
++Nullpath's KSG23
++Norfair's Saiga12 Textures Improvements
++Maid's and Grok's BaS Dynamic Zoom Enabler
++Momopate's Improved Pulses
++Momopate's Detailed Weapon Stats
+-Momopate's Loot Stabilizer
+-LVutner's Shader Corner Shadow Fix
+-Lizzardman's Field Strip Colors
+-Optional Modern UI font
++LSZ AI Tweaks
++330- Personal Adjustable Waypoint - Catspaw
++Kute's Free Zoom Rewrite
++ilrathCXV's Meat Spoiling Timer in Tooltips
++Grulag's In-game G.A.M.M.A. Manual
++Grizzy's Guns Inertia
++Grok's and Darkasleif's Armor Exchange
++Grok's & Bert's Casings Falling Sounds
++Garbage Transition Point in Rostok CLOSER
++G_FLAT's Unusable Parts Handler
++G_FLAT's Status Icons Always Shown
++G_FLAT's Remember Belt Items
++G_FLAT's More Measurement Task Maps
++G_FLAT's Gavrilenko Tasks Fix
++G_FLAT's Msv Above Radiation Icon
++G_FLAT's Inventory Anti-Closing
++G_FLAT's Individualy Recruitable Companions
++G_FLAT's Indirect Parts Favoriter
++G_FLAT's and Grok's Hunting Kit Rework
+-Fuji's ISG Teleport
++Frosty's NPC Weapons Reposition
++Flueno's Safer Artifact Melting
++FishWings XR Reach Task Script Fix
++Fermuto's Part Disassembly Fix
++Demonized More Dangerous Phantoms
++Demonized FDDA New Time Events
++Darkasleif's Text Edits
++Darkasleif's Stop Selling Documents
++Darkasleif's Nimble Upgrades Guns
++Darkasleif's More Vodka Trades
++Darkasleif's Cars Fixes
++Damien's Bolt Fix
++Burn's Optimised World Models
++Ayra's Better Glowsticks Position
++Asnen's and Grok's Better Cigarettes Animations
++Anomaly 1.5.2 fixes
++AlphaLion's Reworked Stash Quest and Map Markers
++G.A.M.M.A. MCM values - Rename to keep your personal changes
++G.A.M.M.A. ZCP 1.4 Balanced Spawns
++G.A.M.M.A. X10 spawn rebalance
++G.A.M.M.A. Voiced Actor
++G.A.M.M.A. Vehicles Edits
++G.A.M.M.A. Vehicles in Darkscape
+-G.A.M.M.A. Weathers
++G.A.M.M.A. Tutorials
++G.A.M.M.A. Stealth Crash Fix
++G.A.M.M.A. Snipers Remover
++G.A.M.M.A. Scopes radius fixes
++G.A.M.M.A. Rostok Mutant Arena Remover
++G.A.M.M.A. Reliable Animation Settings
++G.A.M.M.A. Part Type Fixer
++G.A.M.M.A. Optimised World Models
++G.A.M.M.A. Not so instant tooltip
++G.A.M.M.A. No NPC Friendly Fire
++G.A.M.M.A. No Masks Textures
++G.A.M.M.A. Light Sources Spawner
++G.A.M.M.A. Heavy Metal Magazines
++G.A.M.M.A. Hands Legs Models Swap
++G.A.M.M.A. Fast Transfer fix
++G.A.M.M.A. Keybinds fixes
++G.A.M.M.A. Items Parts Fixes
++G.A.M.M.A. Quests Rebalance
++G.A.M.M.A. Disguise does not remove patches
++G.A.M.M.A. Crook's Identification UI Fix
++G.A.M.M.A. Camera reanimation fixes
++G.A.M.M.A. Burnt Fuzz Balance
++G.A.M.M.A. Burer Fix
++G.A.M.M.A. Books Pass Time
++G.A.M.M.A. Binoculars Rework
++G.A.M.M.A. Arzsi's Mutants Bleeding Fixes
++G.A.M.M.A. Anim Checker
++G.A.M.M.A. Alife optimization
++G.A.M.M.A. Alife fixes
++G.A.M.M.A. Additional Storylines fixes
++G.A.M.M.A. 3D PDA and Headlamp Animations
++G.A.M.M.A. Fixes_separator
++G.A.M.M.A. Soundtrack
++G.A.M.M.A. Soundscape Overhaul
++G.A.M.M.A. More guitar tracks
++G.A.M.M.A. No harmonica
++G.A.M.M.A. Footsteps
++G.A.M.M.A. DNPCAV Crash Fix
++G.A.M.M.A. Desman Horror Overhaul fixes
++G.A.M.M.A. Better Mercs Voices
++G.A.M.M.A. Audio_separator
++Blackgrowl's Extra Guns Replacers
++G.A.M.M.A. Wepl Hit Effects Rework
++G.A.M.M.A. Weapon Pack
++423- Mossberg 590 Reanimation - SoulCrystal
++421- AK Family Reanimation - NickolasNikova
++G.A.M.M.A. Large Files
+-G.A.M.M.A. UMP Position
++G.A.M.M.A. Sleep Balance
++G.A.M.M.A. Skill System Balance
++G.A.M.M.A. Sin and Mutants are Allies
++G.A.M.M.A. Radiation Dynamic Areas
++G.A.M.M.A. Radiation Effects Overhaul
++G.A.M.M.A. Quick Action Wheel Balance
++G.A.M.M.A. Psy rework
++G.A.M.M.A. Psy Fields in the North
++G.A.M.M.A. P90 One Handed
++G.A.M.M.A. Outfits Balances
++G.A.M.M.A. NPC Spawns
++G.A.M.M.A. Mutants Overhaul
++G.A.M.M.A. Agroprom Underground Remake
++G.A.M.M.A. Miracle Machine Remake
++G.A.M.M.A. MP7 Replacer EFT position
++G.A.M.M.A. Guns easier cleaning
++G.A.M.M.A. Enhanced Recoil
++G.A.M.M.A. Close Quarter Combat
++G.A.M.M.A. Better Quick Release System
++G.A.M.M.A. BAS anm fixes
++G.A.M.M.A. Bandage and Tourniquet Reanimation
++G.A.M.M.A. Armors Balancing
++G.A.M.M.A. Actor Damage Balancer
++G.A.M.M.A. Combat and Balance_separator
++Roadside's Lens Flares
++G.A.M.M.A. Postprocess Effects
++G.A.M.M.A. Icons replacer and fixes
++G.A.M.M.A. Icons Cr3pis Ammo
++G.A.M.M.A. Icons
++G.A.M.M.A. Press Key to Drop Item
++G.A.M.M.A. Minimalist HUD
++G.A.M.M.A. UI
++G.A.M.M.A. HUD_separator
++G.A.M.M.A. Artefacts Reinvention
++G.A.M.M.A. Starting Locations
++G.A.M.M.A. Starting Loadouts
++G.A.M.M.A. Starter items are not broken
++G.A.M.M.A. Rare Stashes Balance
++G.A.M.M.A. NPC Loot Claim Remade
++G.A.M.M.A. NPC Loadouts
++G.A.M.M.A. No trade with random stalkers
++G.A.M.M.A. Medications Balance
++G.A.M.M.A. Lottery Rebalance
++G.A.M.M.A. Killing Friends Reduces Goodwill
++G.A.M.M.A. Helmets need armor repair kits
++G.A.M.M.A. Expert toolkits tier 5
++G.A.M.M.A. Exo Balance
++G.A.M.M.A. Economy no BAS injection
++G.A.M.M.A. Economy (don't disable, turn on Black Market to buy gear)
++G.A.M.M.A. Dynamic Tasks Balance
++G.A.M.M.A. Dynamic Loot Balance
++G.A.M.M.A. Dynamic Despawner
++G.A.M.M.A. Disable WPO Overheat
++G.A.M.M.A. Difficulty Presets Rebalance
++G.A.M.M.A. Crafting Tools Weight Reduce
++G.A.M.M.A. Cooking Overhaul
++G.A.M.M.A. Arti Recipes Overhaul
++G.A.M.M.A. Armors no integrated helmet
++G.A.M.M.A. Armors repair like WPO
++G.A.M.M.A. Achievements Balance
++G.A.M.M.A. Economy and Craft_separator
++455- EFT RSH-12 - frostychun
++454- Spawning Shenanigans Prevention - Kute
++453- Items Model Drop After Usage - Kute
++452- Interaction Dot Marks - Catspaw
++451- Ashot and Yar Special Delivery Quest - FreeStalkerLhan
++450- Useful Idiots - bellyillish
++Yet Another Knife Reanimation - lizzardman
++448- New Player Experience - strangerism
++446- Quick Action Wheel - HarukaSai
++445- M60 Texture Improved - Kryiron
++443- Photo of a Loved One Animated - Apathy_Knight
++439- The Covenant Weapon Pack for DX9 - TCWP Team
++433- UDP-9 Carbine - Pilliii
++432- BRN-180 Assault Rifle - JMerc75
++Oleh's Extended MovementSFX
++Oleh's Bolt Impact Sounds
++Teamson & Oleh's Bullet and Grenade Impact Sounds
++426- Dynamic Emission Cover - Utjan
++425- Dynamic News Manager Fixes and Tweaks - dEmergence
++424- Weapon Inertia Expanded - lizzardman
++419- Artefacts Belt Scroller - Demonized
++418- Dynamic Icons Indicators - HarukaSai
++415- M98B Reanimation - frostychun
++440- Alternative Snorks - KynesPeace
++414- Alternative Pseudogiants - KynesPeace
++413- Milspec PDA - Catspaw
+-412- Busyhands Detection and Blame - RavenAscendant
++408- BAS Pistols Reanimation Pack - frostychun
++407- IWP MP9 - frostychun
++406- Random RPK Reanimation - Firebreath
++405- IWP Benelli - frostychun
++404- DesertTech MDR Pack - Andtheherois & Bert
++403- New Tasks - iTheon
++400- Bar Map Edits - Karobeccary
++399- Tosox Mini Mods Repo - Tosox
++396- Glowsticks Reanimated - lizzardman
++395- Pripyat Department Store Open Doors - ComradeCatilina
++394- Return Menu Music - Mirrowel
++393- Disassembly Item Tweaks - Asshall
++392- NPCs Don't Attack Boxes - OnTuMuCT
++390- Workshop Parts Inventory - strangerism
++389- Meadow Terrain Mask Fix - zorius
++386- PS6 Voin and Aztec NPCs Overhaul - Strogglet15
++385- Even More Hideout Furnitures - facelessez
++384- Armsel Protecta Reanimation - NickolasNikova
++382- Guitar Animation - Daiviey
++378- FDDA Enhanced Animations - lizzardman
++375- THAP Re-work - Max_im16
++374- Stealth Kill Detection Fix - Catspaw
++373- Gunslinger Binoculars - vektacitys
++372- Guitar Position Fix - VodoXleb
++Boomsticks and Sharpsticks 2022 Guns
++371- FDDA Enhanced Animations - Mirrowel & MFS Team & Gunslinger Team
++370- Smooth Campfire Illumination - MrWhite
++369- Psysucker Redone - gergi2000
++366- AS VAL Reanimation - SeDzhiMol
++364- Alternative Bloodsuckers - KynesPeace
++363- Winchester 1892 - billwa
++362- No More Flashlights on BAS Weapons - MotaRin
++361- BAS SR-2M Reanimated - Synd1cate
++359- Pretty Pistols Reanimated - FIREBREATH
++358- Global Map Rework - DeadEnvoy
++357- Grey Tree Barks Begone - Joe325
+-356- Lurker HD Remodel - KeatonB_08 & KynesPeace
++355- Steyr Scout - JMerc75
++354- AK12 Reanimation - SeDzhiMol
++353- RPD Reanimation - NickolasNikova
++352- SV98 Reanimation - NickolasNikova
++351- M249 Reanimation - NickolasNikova
++350- Ledge Grabbing - Demonized
++349- Hideout Furniture Expansion - Maid & HarukaSai
++348- FN F2000 Remodel and Reanimation - SeDzhiMol
++347- MP7 Remodel and Reanimation - SeDzhiMol
++346- Controller Sound Replacer - TJGSASQUATCH
++345- HUD Icons Time - bvcx
++344- Lesser Camera Sway When Hit - PsychologicalBit
++341- Extra Level Transitions Rostok Garbage Yantar Facing Fix - Qball
++339- XM4 Rifle - KeatonB_08
++338- Soulslike Gamemode - Jabbers
++337- QoL Bundle - Utjan
++336- Item UI Improvements - Utjan
++335- Auto-Stacking Items - Zatura
++334- Defended Lab X10 - _Shen_
++435- Fixed Artifact for Anomaly - Strogglet15
++333- Fixed Artefacts Colision and Visuals - KronQ and Longreed
++332- QoL Patch to Tweak_Breeki's RF Receiver Hidden Packages - Cookbook
++331- Barrier Defense Task Emission Fix - Catspaw
++329- Fair Fast Travel 2.7+ - Catspaw
++328- Higher Rank NPCs Headlight Disabled - KraizerX
++327- Semi Radiant AI - xcvb
++326- Miserable Axe and Sledgehammer Retexture - Reconboi
++325- Alternative Cats - KynesPeace
++324- Alternative Fleshes - KynesPeace
++323- Alternative Boars - KynesPeace
++322- Tactical Torch Reanimation - Skywhyz
++321- 9a91 Reanimation - SeDzhiMol
++320- PP2000 Remodel & Reanimation - SeDzhiMol
++319- Vihr Reanimation - SeDzhiMol
++318- BAS Saiga Reanimation v2 - Synd1cate
++317- SPAS12 Reanimation & Remodel Addons - Firebreath
++316- SPAS12 Reanimation & Remodel - Firebreath
++315- SVU Reanimation & Remodel - BarryBogs
++312- Gunslinger Guns for Anomaly - Teivazcz & Gunslinger Team
++367- 9x39 Family Beautification - Blackgrowl
+-310- Tactical Fonts for Anomaly 4k - CryoManne
+-309- Tactical Fonts for Anomaly 2k - CryoManne
++308- Tactical Fonts for Anomaly 1k - CryoManne
+-377- GAMMA Portugues Brasileiro Traducao - PedroAmaral89
+-307- GAMMA French Patch - XDomWeedX
++306- Modular Compass Minimap -  lifestorock
++304- Dark Signal Weather and Ambiance Audio - Shrike
++303- Dark Signal UI Audio - Shrike
++302- Minimalist companion UI - Kageeskl
++301- Immersive Skinning - Utjan
+-300- Blood pool with trails and steps - xcvb
++299- Blind Dogs Remodel and Retexture - KynesPeace
++298- Pseudodogs and Psydogs Remodel and Retexture - KynesPeace
++297- Safer Hip Model Replacer -  gyiafdsgyil
++296- Custom Companions Squad Size -  CatspawMods
++295- Descriptive Stash Coordinates - Aoldri
++294- Autolooter - iTheon
++293- PDA Taskboard - iTheon
++292- Ithaca M37 Shotgun - Blackgrowl
++291- Configurable Balanced Mutants - izperehoda
++313- ACE52 Rifle Replacer Patches - Firebreath
++288- ACE52 Rifle Replacer - Firebreath
++286- High-level Toolkits Include Low-level Toolkits - ilrathcxv
++284- Headlamp Reanimated - Celestrilia
++283- Autumn No Leaves LOD Fix - owencraig08
++282- GAMMA Loading Screens - CS Eden
++281- Axes Remodel and Reanimation - BarryBogs
++280- Gunslinger Controller Audio Improved - DesmanMetzger
++279- Crafting Info in Tooltips - Utjan
++278- Kar 98 Remodel and Reanimation - JadeyMoyaison
++277- Tommy Gun - Firebreath
++276- Dark Signal Mutants Audio - Shrike
++269- HQ Glass Overlay - Cr3pis
++268- VSSK Reanimation and Remodel - BarryBogs
++267- Dynamic Dialog UI - Demonized
++266- UMP Reanimation Addons - FIREBREATH
++265- NPCs Die in Emissions for Real - TheMrDemonized
++262- MP412 Rex Reanimation - Aoldri
+-260- 2D Scopes 32-9 Resolution Patch - Kuez
+-259- 2D Scopes 16-10 Resolution Patch - Kuez
+-258- 2D Scopes 21-9 Resolution Patch - Kuez
++256- Water Flask Animation Rework - Apathy_Knight
++255- Coffee in the Zone - sticknou
++254- Better RF Receiver sound - Coverdrave
++253- Attach Patches with hotkey - Demonized
+-252- Tooltip in Corner - RavenAscendant
++251- Better Portraits Icons - Lauta_ro
++250- Better Bullet Casing - toxicfox777
++249- Backpack Icons - DeadEnvoy
++248- Night Mutants - xcvb
++247- Player Icon Fix - MissingnoBW
++246- Gunslinger Controller Suicide - Demonized
++245- Hideout Furniture - Aoldri
++243- AUGmented Weapon Pack Addons - Firebreath
+-242- Gardener of the Zone Textures - YuriVernadsky
+-241- Simple Autumn Retexture No leaves - Daedalus-Prime
+-240- Anomaly's Name Update for Stalkers ANUS - Grulag
++239- Torch Reanimation - Ishtar
++238- Binocular Reanimation - Firebreath
++236- 1st Person Visible Body Ported from SWM - Wang_Laoshi & SWM Team
++235- Weapon Cover Tilt - Demonized
++234- Dynamic Anomalies Overhaul - Demonized
++233- AUGmented Weapon Pack - Firebreath
++230- Repair Bonuses in Details Window - Demonized
++227- Increased Companions Distance - Dhatri
++226- Display Campfires on Map - Maid
++225- Placeable Campfires - xcvb
++224- Newly added addons_separator
+-223- Fluid Relations - Favkis_Nexerade
+-222- Warfare A Life overhaul - Vintar0
++221- Warfare (Optional, Warfare mode is unstable)_separator
+-220- Companions Inventory Unlock (enable only to clear your companions inventory from time to time) - RavenAscendant
+-219- Combine all items (potential crash with some items) - Demonized
+-218- Quick Companion Teleport (teleports rescue mission targets) - RazorShultz
+-217- DNPCAV NPCs wear armor you give them (Crash to desktop sometimes with shift transfer) - RavenAscendant
+-216- Duty Expansion (dialogue camera issues, nimble and spore dialogues heavy bugs) - GhenTuong
+-380- Anomaly Subtitles - AntGlobes
++215- Good addons with issues and bugs_separator
+-No Tinnitus Sound Effects
+-Dark Valley Lamp Remover (better FPS at Bandit Base)
+-420- Tactical Compass -  explorerbee
+-381- Mugging Squads - Demonized
+-214- New Item Highlight (not really necessary but some people like it) - RavenAscendant
+-212- Trader Destockifier (shrinks and randomize traders stocks) - Demonized
++311- NPC Stop Looting Dead Bodies - DTTheGunslinger
+-210- Disables Music in game but not in main menu (if you do not like the new OST) - Ishmaeel
+-208- Ironman Roguelite (for easier ironman lovers) - Jabbers
++206- Areas transition without confirmation (smoother gameflow) - Tom_Sharikov
++205- Old to ammo to new ammo converter (less item bloat) - Great_Day
++203- YACS Better Campfire Saves (forces campfire saves but they are better) - Ishmaeel
++202- Optional_separator
++201- SquareDOV (square minimap) - RavenAscendant
+-200- Compass instead of minimap (more immersive) - Raven800
++199- Minimap (pick one)_separator
+-198- Mystery of the Zone new quest - Hisalute
++197- New Storylines (DLTX minimodpack) - Demonized
++196- DLTX Minimodpack - Demonized
++195- Better blood decals - Ni7L5T
++194- DLTX_separator
+-193- Maids HD Icons (right click and reinstall if you want to use it) - Maids
++192- Cr3pis Iconpack Helmet Less Armors - Cr3pis
++191- Icons_separator
++187- Shaders_separator
++186- Shader Driven Scopes BAS patch - CrookR
++185- Shader Driven Scopes - CrookR
++184- Body Health System - Grokitach
++183- GBOOBS BWRR patch - Grokitach
++182- GBOOBS vanilla ammo - Grokitach
++181- Ballistics Overhaul (GBOOBS) - Grokitach
++180- High Priority_separator
++178- Free Zoom - SlowVibe
++177- Minimap Toggle - RavenAscendant
++176- Encyclopedia Messages Restored - RavenAscendant
++175- Battery Warning - RavenAscendant
++174- Save Name Change - RavenAscendant
++173- Parts in tooltip - Demonized
++172- Cost in tooltip - RavenAscendant
++171- Instant tooltip - RavenAscendant
++170- New mutants icons parts - TDLemon
+-169- Body Dots on Minimap - RavenAscendant
++168- Alternative icons - Strogglet15
++167- New sorting tabs htsb patch - Bartoche
++166- New sorting tabs - Bartoche
++164- Hunger Thirst Sleep UI 0.71 - xcvb
++163- Identification UI - CrookR
++162- UI_separator
++161- Improved player and NPCs ranks (longer for player, faster for companions) - mandothreesixtee
++160- Military not attacked by duty at Rostok - GhenTuong
++159- Extra level transitions - Demonized
++158- ABF - Jurkonov
++157- Fixed Player Thermal Res - Indescript
++156- No Exos in the South - Grokitach
++155- UNISG Trader Fix - Qball
++154- RF Receiver Tasks - Tweaki_Breeki
++153- More Dynamic Tasks - xcvb
++152- Configurable loot condition - dph
++150- Progression_separator
++149- Upgrades pricing overhaul - KronQ
++148- Outfit Drop Chance - arti
++147- Streamlined Upgrades - arti
++146- Ammo Maker BAS Patch - arti
++145- Ammo Maker - arti
++144- Prefer Best Disassembly Tool - Demonized
++143- Keep Crafting Window Opened - Demonized
++141- Fixed Crafting with Multi-Use Items - thisisntmysteamid
++140- Weapon Parts Overhaul - arti
++139- Craft and Repair Overhaul - Grokitach
++138- Craft and Repair_separator
+-137- Auto-Zoomed Out Scope Draw - Demonized
++136- Previous weapon is automatically pulled after closing PDA - Demonized
++135- Undercover Communications - Banjaji
++134- Weapons Drop on bodies - Jabbers
++132- Companion anti awol - Skieppy
++131- Life granter Counter - ToothlessShark
++130- Decreased Bush Earing distance for NPC - Blindside
++129- Mask Reflections - shader fix - Grokitach
++128- Guide Tasks Fix - RavenAscendant
++127- Toggle Scope - Ishmaeel
++126- Companions no headlamps in Stealth - Tweaki_Breeki
++125- New Safe Zones - Tweaki_Breeki
++124- Nitpickers Modpack - Ishmaeel
++123- Modular Tweaks - Vintar0
++122- Zone Tales in Loading Screens - Oni
++121- He is with me - RavenAscendant
++120- Glowsticks position - Kidzukami
++119- HD Glowsticks - r3zy
++118- Gotta go Also Slow - reter
++117- Gotta Go Fast - Grokitach
++116- Dialogues Expanded - indyora
++115- Campfire slowly regens life - arti
++114- Aslan Lottery Fixes - Starcry_
++113- Knife Pistol in Binocular Slot - RavenAscendant
++111- Immersive Sleep - tkcrits
++110- SortingPlus - RavenAscendant
++109- MCM Mod Configuration Menu - RavenAscendant
++108- Remove dropping weapons from damage - Great_Day
++107- QoL_separator
++106- Remove (BAS) label from guns names - Joheed
++105- Re-sound for BAS snipers and pistols - Rex1534
++104- L96 Reanimation JSRS patch - FIREBREATH
++103- L96 Reanimation - FIREBREATH
++102- UMP Reanimation - FIREBREATH
++101- BAS scopes extravaganza 2D shader-based scopes patch - Kuez
++100- BAS Scopes Extravaganza 2d scopes - Kuez
++99- BAS Scopes Extravaganza red dots - Kuez
++98- Better Bolt Animations - TheShinyHaxorus
++97- CLAD lasers for BAS - Nrsy
++96- BAS Stealth sound fix - Unknown
++95- Doom-like weapon inspection - Grokitach
+-94- Tacticool scopes - jaymorrow
++93- Fire Mode Switcher - TheVoidPancake
++92- Vityaz Replacer Remake - Blackgrowl
++91- Pretty Pistols Pack - Blackgrowl
++90- EFT Reposition Gun's Replacers patch - sneaky
++89- Dragunov Replacer patch - Strogglet15
++88- Dragunov Replacer - Strogglet15
++87- G36Pack patch - Strogglet15
++86- G36Pack - Strogglet15
++85- Saiga 12K replacer patches - Strogglet15
++84- Saiga 12K replacer - Strogglet15
++83- Abakan Replacer patch - Strogglet15
++82- Abakan Replacer - Strogglet15
++81- MP7 Reposition - PYP
++80- MP7 Replacer - PYP
++79- Better silenced BAS shotguns - Karlack
++78- EFT Reposition BAS JSRS patch - sneaky
++77- EFT Reposition BAS patch - sneaky
++76- BAS patch 28-12-21 (2nd 76) - Mich
++76- Boomsticks and Sharpsticks - Mich
++75- JSRS BWRR patch - sneaky
++74- EFT Reposition BWRR vanilla stats patch - sneaky
++73- EFT Reposition BWRR patch - sneaky
++72- Adjustable Scope View - sneaky
++71- Weapons Reanimation and Rebalance - Blindside
++70- EFT Reposition AWAR patch - sneaky
++69- AWAR - JCesarN
++68- FAL animations - Souvlaki
++67- JSRS - Solarint
++66- EFT Reposition Main - sneaky
++65- Fluid Aim - Skieppy
++64- Gunplay_separator
++63- Stash Overhaul BAS - Grokitach
++62- Stash Overhaul No Loot - Grokitach
++61- Stash Overhaul TBFix - Grokitach
++60- Stash Overhaul - Grokitach
++59- Fixes bugged stashes - Tweaki_Breeki
++58- New Stashes Location - Tweaki_Breeki
++57- Stashes_separator
++56- Phantoms at low psy health - xcvb
++52- Perk-Based Artefacts - Demonized
++51- Tougher important NPCs and companions - hexef
++50- Disable Burnt Fuzz - _STYX_
++49- Skill System - Haruka
++48- Powered Exos ExoServomotorSounds patch - arti
++47- Powered Exos - arti
++46- Outfits Affects Movespeed - arti
++45- Stealth Overhaul - xcvb
++43- Gameplay_separator
++42- Camera Reanimation INERTIA - IENCE
++41- LowerSprintAnimaiton - Skieppy
++40- Food Drugs and Drinks Animations FDDA - Feel_Fried
++39- RemadeAnimations - ChadSTALKEREnjoyer
++38- Animations_separator
++36- Better Rain texture - Detron
++35- Wet Surfaces Fix - CryoManne
++34- Nicer Flashlights - shortnamesalex
++33- HD mutant models and textures - Umbrellord
++32- FVM Nosorogs models - Blackgrowl
++31- Fixed Vanilla Models and Textures - Blackgrowl
++30- Dux's Innemurable Characters Kit Blackjack patch - DuxFortis
++29- Dux's Innemurable Characters Kit - DuxFortis
++28- Black Jack - Feel_Fried
++26- High Res PDA Maps - Bazingarrey
++25- High Res Loading Screens - Bazingarrey
++24- Skies Redux - d_nan
++23- THAP Rework - IENCE
++21- Visual_separator
++20- EFT footsteps and tinnitus 1.1 - Souvlakii
++19- Horror Overhaul - DesmanMetzger
++18- Ambient Music Pack - Wojach
++17- Inventory open close sound - HollidayW
++16- Hit Effects - Wepl
++15- Voiced Actor - DesmanMetzger
++13- Quieter Wood Boxes Breaking - cringeybabey
++12- PDA Radio Extended - Starcry_
++11- Preblowout Murder - Ethylia
++10- Better sound - Grokitach
++9- Exo Servomotor Sounds - HarukaSai
++8- Better Merc voicelines - YankeeGolf
++7- EFT Jump and Land SFX - HarukaSai
++6- EFT Aim Rattle - Qudix
++5- Anomaly Radio Extended - DesmanMetzger
++4- Injury Audio Extended - DesmanMetzger
++3- Soundscape Overhaul - Solarint
++2- Main Menu Theme - Deathcard Cabin - Grokitach
++1- Audio_separator
