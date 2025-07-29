@@ -17,6 +17,7 @@ DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `mod
 
 **Step 3**<br/>
 <img width="771" height="371" alt="step3" src="https://github.com/user-attachments/assets/0cf147ef-ca8c-46a1-8099-4c92d011c746" />
+EDIT: Yes just **drag and drop** this folder. <!--fml-->
 
 **Step 4/5**<br/>
 <img width="573" height="240" alt="step4" src="https://github.com/user-attachments/assets/271e806f-21aa-462b-a839-20250cff9ce6" />
