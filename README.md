@@ -25,7 +25,13 @@ DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `mod
 ## Troubleshooting
 
 #### I have 0 mods in my profile!
-This is almost ALWAYS caused by not closing MO2 before you do the other steps. Fix it by:
+This is almost ALWAYS caused by not closing MO2 before you do the other steps, OR, by extracting into a subfolder instead of following instructions (look at the Step 3 picture). 
+
+Make sure that:
+- There is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.4` and NOT `G.A.M.M.A._DX8_and_DX9_-_0.9.4` (with the underscores)
+- <!--I swear to god I'm going to add a .txt file called "if this is in your profiles folder YOU FUCKED UP"-->
+
+Fix it by:
 - In MO2, select another profile (e.g. the default `G.A.M.M.A.` profile)
 - **CLOSE MO2 COMPLETELY.**
 - Do step 3 of the installation steps again, overwrite files when prompted
