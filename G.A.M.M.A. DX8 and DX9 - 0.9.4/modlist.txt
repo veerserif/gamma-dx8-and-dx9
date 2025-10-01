@@ -1,5 +1,6 @@
-# This is the modlist for GAMMA 0.9.4, DX8 and 9, last updated 2025-07-23
+# Modlist for GAMMA 0.9.4 DX8 and DX9, updated 01 OCT 2025
 
+-449- Dynamic Aspect Ratio Tweaks (fixes for widescreen) - bellyillish
 +G.A.M.M.A. End of List_separator
 -ZCP 1.5d
 -Mags Buyable at Traders
@@ -19,6 +20,7 @@
 -Blindside's MP412 Rex Reanimation Module by Kute
 -Banger's Silencers Icons Fix
 -Apathy's Better Detector Position
+-456- FDDA Redone Fixes - Kute
 -444- Thick Russian Reticles - Napolemon
 -383- Headgear Animations - lizzardman
 -397- Outfits Animation - lizzardman
@@ -100,11 +102,10 @@
 +417- New Extensible RF Sources - Catspaw
 +416- Devices of Anomaly Redone - BarryBogs
 +No BNVG FDDA Redone Patch
-+456- FDDA Redone Fixes - Kute
 +447- FDDA Redone - lizzardman
 +287- G.A.M.M.A. Massive Text Overhaul Project - SageDaHerb and Dr.Pr1nkos
 +G.A.M.M.A. Short Psi Storms
-+388- Aydins Grass Tweaks SSS Terrain LOD Compatibility - aytabag
+-388- Aydins Grass Tweaks SSS Terrain LOD Compatibility - aytabag
 -290- Atmospherics Shaders Weathers and Reshade Latest - Hippobot
 -190- Screen Space Shaders 23 - Ascii1457
 -189- Beef's NVG - theRealBeef
@@ -138,6 +139,7 @@
 +Serious Workshop optimization
 +Slugler's & Andtheherois's No old ammo in wheel
 +SixSloth's & Veerserif's Hideout Furnitures 2.2.1 GAMMA patch
++Veerserif's Hideout Furniture Craft and Trade
 +Simpington's Cocaine Animation for GAMMA
 +SilverBlack's Gas Mask Sounds
 +SaloEater's Replace Shows Parts Health
@@ -497,6 +499,8 @@
 -216- Duty Expansion (dialogue camera issues, nimble and spore dialogues heavy bugs) - GhenTuong
 -380- Anomaly Subtitles - AntGlobes
 +215- Good addons with issues and bugs_separator
++No Weapon Jam Chance at Full Condition
+-Suppressors do not Increase Jam Probability
 -No Tinnitus Sound Effects
 -Dark Valley Lamp Remover (better FPS at Bandit Base)
 -420- Tactical Compass -  explorerbee
