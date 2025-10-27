@@ -8,6 +8,11 @@ DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `mod
 4. Open MO2
 5.  Select the "GAMMA DX8 and DX9 - 0.9.4" mod profile. You should have **533** mods enabled by default.
 
+### Installation video guide
+Thanks to Oflin for creating it. Click the thumbnail to watch on Youtube.
+
+[![Watch the installation video](https://img.youtube.com/vi/uomuVmyd7d8/0.jpg)](https://www.youtube.com/watch?v=uomuVmyd7d8)
+
 ## Picture version
 
 **Step 1**<br/>
