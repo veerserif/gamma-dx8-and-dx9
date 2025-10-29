@@ -1,13 +1,14 @@
-# Modlist for GAMMA 0.9.4 DX8 and DX9, updated 01 OCT 2025
+# GAMMA modlist for DX8 and DX9, last edited 2025-10-29
 
--449- Dynamic Aspect Ratio Tweaks (fixes for widescreen) - bellyillish
+-End
 +G.A.M.M.A. End of List_separator
 -ZCP 1.5d
+-Petrenka's Improved Russian Translation
 -Mags Buyable at Traders
 -Grulag's Halved Stalkers Population at Hubs
 -G.A.M.M.A. YACS no quit
 -G.A.M.M.A. Free Zoom v3
--G.A.M.M.A. FDDA Rework
+-G.A.M.M.A. FDDA Rework 
 -G.A.M.M.A. Fast Travel Limiter Rebalance
 -G.A.M.M.A. Bounty Squads Rework
 -G.A.M.M.A. Bounty Squad Kill
@@ -60,6 +61,7 @@
 -22- Agressor Reshade - Awene
 -14- Angry Chimera growl - Tweaki_Breeki
 +G.A.M.M.A. Disabled (DO NOT ACTIVATE)_separator
++SaloEater's Keep Crafting Window Opened remembers HFE's stove crafting slot
 +SaloEater's Double Click to Use Tools
 +G.A.M.M.A. Accurate Defense Values
 +Anomaly 1.5.3 Shaders Fix
@@ -76,6 +78,7 @@
 -Meatchunk's prefetcher for G.A.M.M.A (needs 12Gb of Free RAM)
 +DX9 Compatibility Patch
 -457- RETUNE Ambiant Sounds - Aphrodite_child
+-449- Dynamic Aspect Ratio Tweaks - bellyillish
 +Alternative Addons & Patches_separator
 +G.A.M.M.A. Inspect on double tap F disabler
 +G.A.M.M.A. Unjam Reload on the same key
@@ -85,7 +88,7 @@
 +Realistic Magazines_separator
 +G.A.M.M.A. Deer Hunter as 338 Federal
 +442- Expanded & Fixed Maps - HailTheMonolith
--438- Sights and Optics Retexture - Meowie
++438- Sights and Optics Retexture - Meowie
 +437- Weighted NPC Random Loadouts - SD
 -428- Authentic Reticle for 3DSS - Napolemon
 +360- GAMMA Reload Timing Fix - aegis27
@@ -94,6 +97,7 @@
 +Oleh's Miscellaneous Sound Improvements
 +Oleh's Weapons Sounds Tweaks and Fixes
 -434- 3DSS M4A1 Siber Reanimation - Andtheherois
++434- 3DSS M4A1 Siber Reanimation
 -431- 3DSS ISG AK Makeover - Andtheherois & BAS Team
 -429- The Covenant Weapon Pack 3DSS - Andtheherois & TCWP Team
 -430- M98B 3DSS Update - Andtheherois & frostychun
@@ -150,7 +154,7 @@
 +Tiskar's colored upgrade kit icons
 +Teepo's Speed Fix
 +368- Attachment Alignment Fixes - Tiskar & Burn
--Teivaz's Gunslinger Exo Animations Port
++Teivaz's Gunslinger Exo Animations Port
 +Solarint's New Piano Songs
 +Redotix99's Walking Reanimation
 +Razfarg's Scroll Fix
@@ -192,6 +196,7 @@
 +Demonized FDDA New Time Events
 +Darkasleif's Text Edits
 +Darkasleif's Stop Selling Documents
++DarkasleQif's and iTheon's Parts Condition Color Thresholds Changes
 +Darkasleif's Nimble Upgrades Guns
 +Darkasleif's More Vodka Trades
 +Darkasleif's Cars Fixes
@@ -255,6 +260,7 @@
 +423- Mossberg 590 Reanimation - SoulCrystal
 +421- AK Family Reanimation - NickolasNikova
 +G.A.M.M.A. Large Files
++G.A.M.M.A. Vehicles in Darkscape
 -G.A.M.M.A. UMP Position
 +G.A.M.M.A. Sleep Balance
 +G.A.M.M.A. Skill System Balance
@@ -320,7 +326,6 @@
 +455- EFT RSH-12 - frostychun
 +454- Spawning Shenanigans Prevention - Kute
 +453- Items Model Drop After Usage - Kute
-+452- Interaction Dot Marks - Catspaw
 +451- Ashot and Yar Special Delivery Quest - FreeStalkerLhan
 +450- Useful Idiots - bellyillish
 +Yet Another Knife Reanimation - lizzardman
@@ -335,7 +340,7 @@
 +Oleh's Bolt Impact Sounds
 +Teamson & Oleh's Bullet and Grenade Impact Sounds
 +426- Dynamic Emission Cover - Utjan
-+425- Dynamic News Manager Fixes and Tweaks - dEmergence
++425- Dynamic News Manager Fixes and Tweaks - dEmergence	
 +424- Weapon Inertia Expanded - lizzardman
 +419- Artefacts Belt Scroller - Demonized
 +418- Dynamic Icons Indicators - HarukaSai
@@ -419,7 +424,7 @@
 +317- SPAS12 Reanimation & Remodel Addons - Firebreath
 +316- SPAS12 Reanimation & Remodel - Firebreath
 +315- SVU Reanimation & Remodel - BarryBogs
-+312- Gunslinger Guns for Anomaly - Teivazcz & Gunslinger Team
+-312- Gunslinger Guns for Anomaly - Teivazcz & Gunslinger Team
 +367- 9x39 Family Beautification - Blackgrowl
 -310- Tactical Fonts for Anomaly 4k - CryoManne
 -309- Tactical Fonts for Anomaly 2k - CryoManne
@@ -498,6 +503,7 @@
 -217- DNPCAV NPCs wear armor you give them (Crash to desktop sometimes with shift transfer) - RavenAscendant
 -216- Duty Expansion (dialogue camera issues, nimble and spore dialogues heavy bugs) - GhenTuong
 -380- Anomaly Subtitles - AntGlobes
+-452- Interaction Dot Marks - Catspaw
 +215- Good addons with issues and bugs_separator
 +No Weapon Jam Chance at Full Condition
 -Suppressors do not Increase Jam Probability
