@@ -1,4 +1,4 @@
-# GAMMA modlist for DX8 and DX9, last edited 2025-10-29
+# GAMMA modlist for DX8 and DX9, last edited 2025-10-30
 
 -End
 +G.A.M.M.A. End of List_separator
@@ -98,7 +98,7 @@
 +Oleh's Miscellaneous Sound Improvements
 +Oleh's Weapons Sounds Tweaks and Fixes
 -434- 3DSS M4A1 Siber Reanimation - Andtheherois
--434- 3DSS M4A1 Siber Reanimation
++434- 3DSS M4A1 Siber Reanimation
 -431- 3DSS ISG AK Makeover - Andtheherois & BAS Team
 -429- The Covenant Weapon Pack 3DSS - Andtheherois & TCWP Team
 -430- M98B 3DSS Update - Andtheherois & frostychun
@@ -155,7 +155,7 @@
 +Tiskar's colored upgrade kit icons
 +Teepo's Speed Fix
 +368- Attachment Alignment Fixes - Tiskar & Burn
-+Teivaz's Gunslinger Exo Animations Port
+-Teivaz's Gunslinger Exo Animations Port
 +Solarint's New Piano Songs
 +Redotix99's Walking Reanimation
 +Razfarg's Scroll Fix
@@ -426,7 +426,7 @@
 +317- SPAS12 Reanimation & Remodel Addons - Firebreath
 +316- SPAS12 Reanimation & Remodel - Firebreath
 +315- SVU Reanimation & Remodel - BarryBogs
--312- Gunslinger Guns for Anomaly - Teivazcz & Gunslinger Team
++312- Gunslinger Guns for Anomaly - Teivazcz & Gunslinger Team
 +367- 9x39 Family Beautification - Blackgrowl
 -310- Tactical Fonts for Anomaly 4k - CryoManne
 -309- Tactical Fonts for Anomaly 2k - CryoManne
