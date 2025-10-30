@@ -7,7 +7,7 @@ DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `mod
 4. Extract it to `your GAMMA folder/profiles` (it should create a new folder called `G.A.M.M.A. DX8 and DX9 - 0.9.4`)
   > Make sure there is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.4` and NOT `G.A.M.M.A._DX8_and_DX9_-_0.9.4` (with the underscores)
 4. Open MO2
-5.  Select the "GAMMA DX8 and DX9 - 0.9.4" mod profile. You should have **535** mods enabled by default.
+5.  Select the "GAMMA DX8 and DX9 - 0.9.4" mod profile. You should have **536** mods enabled by default.
 
 ### Installation video guide
 Thanks to Oflin for creating it. Click the thumbnail to watch on Youtube.
