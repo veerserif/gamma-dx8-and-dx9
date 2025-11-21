@@ -5,9 +5,9 @@ DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `mod
 2. **Close MO2!** This is very important otherwise you will have to redo these steps!
 3. Open the file, and find the folder `G.A.M.M.A. DX8 and DX9 - 0.9.4`
 4. Extract it to `your GAMMA folder/profiles` (it should create a new folder called `G.A.M.M.A. DX8 and DX9 - 0.9.4`)
-  > Make sure there is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.4` and NOT `G.A.M.M.A._DX8_and_DX9_-_0.9.4` (with the underscores)
+  > Make sure there is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.4` and NOT anything else
 4. Open MO2
-5.  Select the "GAMMA DX8 and DX9 - 0.9.4" mod profile. You should have **537** mods enabled by default.
+5.  Select the "GAMMA DX8 and DX9 - 0.9.4" mod profile. You should have **538** mods enabled by default.
 
 ### Installation video guide
 Thanks to Oflin for creating it. Click the thumbnail to watch on Youtube.
@@ -35,7 +35,7 @@ Thanks to Oflin for creating it. Click the thumbnail to watch on Youtube.
 This is almost ALWAYS caused by not closing MO2 before you do the other steps, OR, by extracting into a subfolder instead of following instructions (look at the Step 3 picture). 
 
 Make sure that:
-- There is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.4` and NOT `G.A.M.M.A._DX8_and_DX9_-_0.9.4` (with the underscores)
+- There is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.4` and NOT anything else
 <!--I swear to god I'm going to add a .txt file called "if this is in your profiles folder YOU FUCKED UP"-->
 
 Fix it by:
