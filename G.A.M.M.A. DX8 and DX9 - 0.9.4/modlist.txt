@@ -1,4 +1,4 @@
-# GAMMA modlist for DX8 and DX9, last edited 2025-11-21
+# GAMMA modlist for DX8 and DX9, last edited 2025-12-19
 
 -End
 +G.A.M.M.A. End of List_separator
@@ -91,7 +91,7 @@
 +Realistic Magazines_separator
 +G.A.M.M.A. Deer Hunter as 338 Federal
 +442- Expanded & Fixed Maps - HailTheMonolith
-+438- Sights and Optics Retexture - Meowie
+-438- Sights and Optics Retexture - Meowie
 +437- Weighted NPC Random Loadouts - SD
 -428- Authentic Reticle for 3DSS - Napolemon
 +360- GAMMA Reload Timing Fix - aegis27
@@ -708,4 +708,5 @@
 +3- Soundscape Overhaul - Solarint
 +2- Main Menu Theme - Deathcard Cabin - Grokitach
 +1- Audio_separator
+
 
