@@ -1,3 +1,5 @@
+## DX8 and DX9 DOES NOT WORK ON GAMMA 0.9.5 RIGHT NOW!
+
 DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `modorder.txt` directly.
 
 ## Installation
