@@ -1,6 +1,7 @@
-## DX8 and DX9 DOES NOT WORK ON GAMMA 0.9.5 RIGHT NOW!
-
 DX8 and DX9 MO2 profile for GAMMA. If you know what you're doing, just grab `modorder.txt` directly.
+
+## GAMMA 0.9.5 Notice
+DX8 and DX9 works **with some significant bugs**: broken icons on new guns, missing gun textures (due to texture compression method), crash on equipping the SVT-40. Report bugs aside from this one in the base GAMMA support channel on Discord.
 
 ## Installation
 1. Download the attached file [from the Releases tab](https://github.com/veerserif/gamma-dx8-and-dx9/releases)
