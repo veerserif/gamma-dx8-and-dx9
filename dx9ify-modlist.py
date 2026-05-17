@@ -61,6 +61,6 @@ for i in range(len(modlist)):
 modlist[0] = "# GAMMA modlist for DX8 and DX9, last edited " + today + "\n"
 
 # Print to file
-with open("./G.A.M.M.A. DX8 and DX9 - 0.9.4/modlist.txt", "w") as output:
+with open("./G.A.M.M.A. DX8 and DX9 - 0.9.5/modlist.txt", "w") as output:
     for i in range(len(modlist)):
         output.write(modlist[i] + "\n")
