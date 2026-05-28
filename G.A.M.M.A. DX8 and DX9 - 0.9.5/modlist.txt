@@ -1,4 +1,4 @@
-# GAMMA modlist for DX8 and DX9, last edited 2026-05-17
+# GAMMA modlist for DX8 and DX9, last edited 2026-05-28
 
 -End
 +G.A.M.M.A. End of List_separator
@@ -358,8 +358,8 @@
 +486- Billwa's Weapon Collection - SeDzhiMol & Billwa
 +485- Escape From Tarkov MTS-255 Shotgun Revolver - frostychun
 +484- Fast Pistol Swap - Verdatim
-+483- Alife Plus - damian_sirbu
-+482- Xlib - damian_sirbu
+-483- Alife Plus - damian_sirbu
+-482- Xlib - damian_sirbu
 +481- Non-Linear ADS - Verdatim
 +480- Squad Filler - xcvb
 +477- Tasks Guide Spot - SaloEater
@@ -751,3 +751,4 @@
 +3- Soundscape Overhaul - Solarint
 +2- Main Menu Theme - Deathcard Cabin - Grokitach
 +1- Audio_separator
+
