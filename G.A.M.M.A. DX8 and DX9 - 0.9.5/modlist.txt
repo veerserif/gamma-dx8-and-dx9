@@ -1,4 +1,4 @@
-# GAMMA modlist for DX8 and DX9, last edited 2026-05-28
+# GAMMA modlist for DX8 and DX9, last edited 2026-09-24
 
 -End
 +G.A.M.M.A. End of List_separator
@@ -131,7 +131,7 @@
 -189- Beef's NVG - theRealBeef
 -188- Enhanced Shaders - KennShade
 +289- Grass Tweaks (reinstall for different options) - Aydin
-+465- Laser Settings - Borksy
+-465- Laser Settings - Borksy
 -461- GAMMA Immaculate Munitions Pack GIMP - andtheherois
 -410- 3DSS for GAMMA - Redotix99 & Andtheherois & party50
 +436- Alpha AKM Reanimation - SeDzhiMol

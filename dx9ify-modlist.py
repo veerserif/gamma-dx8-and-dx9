@@ -45,7 +45,8 @@ disable_mods = [
 
     #Others
     "356- Lurker HD Remodel - KeatonB_08 & KynesPeace",
-    "Teivaz's Gunslinger Exo Animations Port"
+    "Teivaz's Gunslinger Exo Animations Port",
+    "465- Laser Settings - Borksy"
 ]
 
 # Iterate through DX11 modlist and enable/disable as appropriate
