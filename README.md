@@ -18,7 +18,7 @@ DX8 and DX9 works **with some significant bugs**. Report other bugs and issues i
 4. Extract it to `your GAMMA folder/profiles` (it should create a new folder called `G.A.M.M.A. DX8 and DX9 - 0.9.5`)
    > Make sure there is **no subfolder** in your `profiles` folder - the profile folder is called `GAMMA DX8 and DX9 - 0.9.5` and NOT anything else
 5. Open MO2
-6. Select the "GAMMA DX8 and DX9 - 0.9.5" mod profile. You should have **569** mods enabled by default.
+6. Select the "GAMMA DX8 and DX9 - 0.9.5" mod profile. You should have **568** mods enabled by default.
 
 ### Installation video guide
 
